@@ -1,5 +1,5 @@
 # infra2
-### 1.MriaDBを導入する
+## 1.MriaDBを導入する
 ##### 以下のサイトを参考にして作成した
 ##### https://www.digitalocean.com/community/tutorials/how-to-install-mariadb-on-ubuntu-20-04-ja
 ##### ダウンロード方法
@@ -7,8 +7,8 @@
 ##### sudo apt install mariadb-server
 ##### sudo mysql_secure_installation
 ##### sudo mariadb （起動させる）
+## 2.MriaDBの基本操作
 
-### 2.MriaDBの基本操作
 #### データベース作成
 #### MariaDB [(none)]> CREATE DATABASE mysystem;
 
