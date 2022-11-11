@@ -10,12 +10,12 @@
 
 ### 2.MriaDBの基本操作
 #### データベース作成
-####　MariaDB [(none)]> CREATE DATABASE mysystem;
+#### MariaDB [(none)]> CREATE DATABASE mysystem;
 
 #### データベース一覧
 #### MariaDB [(none)]> show databases;
 
-####　データベース指定
+#### データベース指定
 #### use[データベース名]　(今回はmysystem)
 
 #### テーブル作成(一例)
